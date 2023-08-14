@@ -1,0 +1,7 @@
+This is an ATM program and to use it correctly consider these tips:
+
+You can only enter as a chef, an attendant or an user.
+
+To log in, you must have an account already so if don't have any, first sign up.
+
+The program will be terminated when you press exit option.
